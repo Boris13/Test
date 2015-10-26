@@ -6,3 +6,12 @@
  * Time: 10:07
  */
 echo 'box';
+?>
+<?
+/*
+aegtrs
+shbtrsh
+srhbrs
+srthb
+srnh
+srh
